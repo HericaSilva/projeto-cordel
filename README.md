@@ -6,6 +6,13 @@ This was one of my first projects and my initial contact with the field of techn
 
 The goal is to present a creative and fun adaptation of traditional cordel literature, reflecting the impact of technology on human communication.
 
+
+## **🌐 Deploy**
+
+The application is hosted and can be accessed through the following link:
+
+[**Modern Cordel - Access here!**](https://hericasilva.github.io/projeto-cordel/
+
 ## **🚀 Technologies Used**
 
 - **HTML5** – For structuring the web page and content.
@@ -20,11 +27,6 @@ This simple web application showcases **cordel poetry** with modern elements and
 - **External Links**: Directs to the full poetry source for further reading on **Recanto das Letras**.
 - **Mobile-Friendly Design**: The design adapts to different screen sizes for an optimized experience.
 
-## **🌐 Deploy**
-
-The application is hosted and can be accessed through the following link:
-
-[**Modern Cordel - Access here!**](https://hericasilva.github.io/projeto-cordel/
 
 ## **📝 Author**
 
